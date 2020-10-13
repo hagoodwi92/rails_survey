@@ -7,3 +7,4 @@ class CreateSurveys < ActiveRecord::Migration[6.0]
     end
   end
 end
+# Co-authored-by: Alma Frankenstein <a.q.frankenstein@gmail.com>
